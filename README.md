@@ -1,6 +1,6 @@
 # NodeFarmApp
 This uses some useful functionality of nodejs.
-Webstie preview is shown below :
+Website preview is shown below :
 
 ![Capture](https://user-images.githubusercontent.com/43849911/63861250-29984d00-c9c8-11e9-9d50-b4ebd306c103.JPG)
 
